@@ -1,0 +1,693 @@
+AÑO;DISTRITO;BARRIO;Servicios de alojamiento;Servicios de comidas y bebidas
+2017;01. Centro;01. Centro;;
+2017;01. Centro;01. Centro;194;2.984
+2017;01. Centro;011. Palacio;28;569
+2017;01. Centro;012. Embajadores;24;488
+2017;01. Centro;013. Cortes;44;397
+2017;01. Centro;014. Justicia;24;496
+2017;01. Centro;015. Universidad;33;611
+2017;01. Centro;016. Sol;41;423
+2017;02. Arganzuela;02. Arganzuela;;
+2017;02. Arganzuela;02. Arganzuela;12;833
+2017;02. Arganzuela;021. Imperial;4;107
+2017;02. Arganzuela;022. Acacias;1;167
+2017;02. Arganzuela;023. Chopera;1;101
+2017;02. Arganzuela;024. Legazpi;0;86
+2017;02. Arganzuela;025. Delicias;1;132
+2017;02. Arganzuela;026. Palos de Moguer;5;203
+2017;02. Arganzuela;027. Atocha;0;37
+2017;03. Retiro;03. Retiro;;
+2017;03. Retiro;03. Retiro;13;630
+2017;03. Retiro;031. Pacífico;0;163
+2017;03. Retiro;032. Adelfas;3;59
+2017;03. Retiro;033. Estrella;1;50
+2017;03. Retiro;034. Ibiza;0;189
+2017;03. Retiro;035. Los Jerónimos;8;86
+2017;03. Retiro;036. Niño Jesús;1;83
+2017;04. Salamanca;04. Salamanca;;
+2017;04. Salamanca;04. Salamanca;48;1.284
+2017;04. Salamanca;041. Recoletos;16;253
+2017;04. Salamanca;042. Goya;4;307
+2017;04. Salamanca;043. Fuente del Berro;1;116
+2017;04. Salamanca;044. Guindalera;9;204
+2017;04. Salamanca;045. Lista;6;196
+2017;04. Salamanca;046. Castellana;12;208
+2017;05. Chamartín;05. Chamartín;;
+2017;05. Chamartín;05. Chamartín;30;1.034
+2017;05. Chamartín;051. El Viso;4;162
+2017;05. Chamartín;052. Prosperidad;4;215
+2017;05. Chamartín;053. Ciudad Jardín;3;158
+2017;05. Chamartín;054. Hispanoamérica;6;244
+2017;05. Chamartín;055. Nueva España;6;159
+2017;05. Chamartín;056. Castilla;7;96
+2017;06. Tetuán;06. Tetuán;;
+2017;06. Tetuán;06. Tetuán;38;1.027
+2017;06. Tetuán;061. Bellas Vistas;6;134
+2017;06. Tetuán;062. Cuatro Caminos;14;356
+2017;06. Tetuán;063. Castillejos;13;227
+2017;06. Tetuán;064. Almenara;3;110
+2017;06. Tetuán;065. Valdeacederas;1;92
+2017;06. Tetuán;066. Berruguete;1;108
+2017;07. Chamberí;07. Chamberí;;
+2017;07. Chamberí;07. Chamberí;50;1.360
+2017;07. Chamberí;071. Gaztambide;5;243
+2017;07. Chamberí;072. Arapiles;5;197
+2017;07. Chamberí;073. Trafalgar;11;287
+2017;07. Chamberí;074. Almagro;6;230
+2017;07. Chamberí;075. Ríos Rosas;8;262
+2017;07. Chamberí;076. Vallehermoso;15;141
+2017;08. Fuencarral-El Pardo;08. Fuencarral-El Pardo;;
+2017;08. Fuencarral-El Pardo;08. Fuencarral-El Pardo;16;963
+2017;08. Fuencarral-El Pardo;081. El Pardo;0;41
+2017;08. Fuencarral-El Pardo;082. Fuentelarreina;1;2
+2017;08. Fuencarral-El Pardo;083. Peñagrande;0;123
+2017;08. Fuencarral-El Pardo;084. Pilar;0;237
+2017;08. Fuencarral-El Pardo;085. La Paz;2;101
+2017;08. Fuencarral-El Pardo;086. Valverde;8;290
+2017;08. Fuencarral-El Pardo;087. Mirasierra;2;67
+2017;08. Fuencarral-El Pardo;088. El Goloso;3;102
+2017;09. Moncloa-Aravaca;09. Moncloa-Aravaca;;
+2017;09. Moncloa-Aravaca;09. Moncloa-Aravaca;63;819
+2017;09. Moncloa-Aravaca;091. Casa de Campo;4;144
+2017;09. Moncloa-Aravaca;092. Argüelles;18;243
+2017;09. Moncloa-Aravaca;093. Ciudad Universitaria;31;175
+2017;09. Moncloa-Aravaca;094. Valdezarza;0;84
+2017;09. Moncloa-Aravaca;095. Valdemarín;6;43
+2017;09. Moncloa-Aravaca;096. El Plantío;2;41
+2017;09. Moncloa-Aravaca;097. Aravaca;2;89
+2017;10. Latina;10. Latina;;
+2017;10. Latina;10. Latina;4;933
+2017;10. Latina;101. Los Cármenes;0;59
+2017;10. Latina;102. Puerta del Ángel;3;197
+2017;10. Latina;103. Lucero;0;138
+2017;10. Latina;104. Aluche;1;298
+2017;10. Latina;105. Campamento;0;57
+2017;10. Latina;106. Cuatro Vientos;0;13
+2017;10. Latina;107. Águilas;0;171
+2017;11. Carabanchel;11. Carabanchel;;
+2017;11. Carabanchel;11. Carabanchel;10;1.131
+2017;11. Carabanchel;111. Comillas;2;108
+2017;11. Carabanchel;112. Opañel;0;162
+2017;11. Carabanchel;113. San Isidro;1;150
+2017;11. Carabanchel;114. Vista Alegre;4;296
+2017;11. Carabanchel;115. Puerta Bonita;2;114
+2017;11. Carabanchel;116. Buenavista;0;191
+2017;11. Carabanchel;117. Abrantes;1;110
+2017;12. Usera;12. Usera;;
+2017;12. Usera;12. Usera;5;626
+2017;12. Usera;121. Orcasitas;0;63
+2017;12. Usera;122. Orcasur;0;42
+2017;12. Usera;123. San Fermín;1;73
+2017;12. Usera;124. Almendrales;1;115
+2017;12. Usera;125. Moscardó;2;161
+2017;12. Usera;126. Zofío;0;53
+2017;12. Usera;127. Pradolongo;1;119
+2017;13. Puente de Vallecas;13. Puente de Vallecas;;
+2017;13. Puente de Vallecas;13. Puente de Vallecas;2;971
+2017;13. Puente de Vallecas;131. Entrevías;0;156
+2017;13. Puente de Vallecas;132. San Diego;1;223
+2017;13. Puente de Vallecas;133. Palomeras Bajas;1;119
+2017;13. Puente de Vallecas;134. Palomeras Sureste;0;140
+2017;13. Puente de Vallecas;135. Portazgo;0;128
+2017;13. Puente de Vallecas;136. Numancia;0;205
+2017;14. Moratalaz;14. Moratalaz;;
+2017;14. Moratalaz;14. Moratalaz;0;289
+2017;14. Moratalaz;141. Pavones;0;30
+2017;14. Moratalaz;142. Horcajo;0;13
+2017;14. Moratalaz;143. Marroquina;0;116
+2017;14. Moratalaz;144. Media Legua;0;53
+2017;14. Moratalaz;145. Fontarrón;0;42
+2017;14. Moratalaz;146. Vinateros;0;35
+2017;15. Ciudad Lineal;15. Ciudad Lineal;;
+2017;15. Ciudad Lineal;15. Ciudad Lineal;17;1.041
+2017;15. Ciudad Lineal;151. Ventas;0;195
+2017;15. Ciudad Lineal;152. Pueblo Nuevo;1;276
+2017;15. Ciudad Lineal;153. Quintana;2;157
+2017;15. Ciudad Lineal;154. Concepción;3;142
+2017;15. Ciudad Lineal;155. San Pascual;2;92
+2017;15. Ciudad Lineal;156. San Juan Bautista;1;72
+2017;15. Ciudad Lineal;157. Colina;3;31
+2017;15. Ciudad Lineal;158. Atalaya;1;4
+2017;15. Ciudad Lineal;159. Costillares;4;72
+2017;16. Hortaleza;16. Hortaleza;;
+2017;16. Hortaleza;16. Hortaleza;13;675
+2017;16. Hortaleza;161. Palomas;2;30
+2017;16. Hortaleza;162. Piovera;2;60
+2017;16. Hortaleza;163. Canillas;2;198
+2017;16. Hortaleza;164. Pinar del Rey;4;194
+2017;16. Hortaleza;165. Apóstol Santiago;0;41
+2017;16. Hortaleza;166. Valdefuentes;3;152
+2017;17. Villaverde;17. Villaverde;;
+2017;17. Villaverde;17. Villaverde;1;585
+2017;17. Villaverde;171. Villaverde Alto, Casco Histórico de Villaverde;1;218
+2017;17. Villaverde;172. San Cristóbal;0;56
+2017;17. Villaverde;173. Butarque;0;57
+2017;17. Villaverde;174. Los Rosales;0;142
+2017;17. Villaverde;175. Ángeles;0;112
+2017;18. Villa de Vallecas;18. Villa de Vallecas;;
+2017;18. Villa de Vallecas;18. Villa de Vallecas;9;393
+2017;18. Villa de Vallecas;181. Casco Histórico de Vallecas;9;212
+2017;18. Villa de Vallecas;182. Santa Eugenia;0;73
+2017;18. Villa de Vallecas;183. Ensanche de Vallecas;0;108
+2017;19. Vicálvaro;19. Vicálvaro;;
+2017;19. Vicálvaro;19. Vicálvaro;2;229
+2017;19. Vicálvaro;191. Casco Histórico de Vicálvaro;2;166
+2017;19. Vicálvaro;192. Valdebernardo;0;44
+2017;19. Vicálvaro;193. Valderribas;0;19
+2017;19. Vicálvaro;194. El Cañaveral;0;0
+2017;20. San Blas-Canillejas;20. San Blas-Canillejas;;
+2017;20. San Blas-Canillejas;20. San Blas-Canillejas;28;705
+2017;20. San Blas-Canillejas;201. Simancas;9;204
+2017;20. San Blas-Canillejas;202. Hellín;0;12
+2017;20. San Blas-Canillejas;203. Amposta;0;35
+2017;20. San Blas-Canillejas;204. Arcos;0;66
+2017;20. San Blas-Canillejas;205. Rosas;0;129
+2017;20. San Blas-Canillejas;206. Rejas;16;75
+2017;20. San Blas-Canillejas;207. Canillejas;1;141
+2017;20. San Blas-Canillejas;208. El Salvador;2;43
+2017;21. Barajas;21. Barajas;;
+2017;21. Barajas;21. Barajas;30;339
+2017;21. Barajas;211. Alameda de Osuna;6;61
+2017;21. Barajas;212. Aeropuerto;2;93
+2017;21. Barajas;213. Casco Histórico de Barajas;14;70
+2017;21. Barajas;214. Timón;4;46
+2017;21. Barajas;215. Corralejos;4;69
+2018;01. Centro;01. Centro;;
+2018;01. Centro;01. Centro;206;2.997
+2018;01. Centro;011. Palacio;30;560
+2018;01. Centro;012. Embajadores;27;498
+2018;01. Centro;013. Cortes;44;398
+2018;01. Centro;014. Justicia;28;496
+2018;01. Centro;015. Universidad;34;612
+2018;01. Centro;016. Sol;43;433
+2018;02. Arganzuela;02. Arganzuela;;
+2018;02. Arganzuela;02. Arganzuela;14;852
+2018;02. Arganzuela;021. Imperial;5;107
+2018;02. Arganzuela;022. Acacias;1;170
+2018;02. Arganzuela;023. Chopera;2;106
+2018;02. Arganzuela;024. Legazpi;0;89
+2018;02. Arganzuela;025. Delicias;1;135
+2018;02. Arganzuela;026. Palos de Moguer;5;205
+2018;02. Arganzuela;027. Atocha;0;40
+2018;03. Retiro;03. Retiro;;
+2018;03. Retiro;03. Retiro;12;617
+2018;03. Retiro;031. Pacífico;0;159
+2018;03. Retiro;032. Adelfas;3;57
+2018;03. Retiro;033. Estrella;1;48
+2018;03. Retiro;034. Ibiza;0;189
+2018;03. Retiro;035. Los Jerónimos;8;83
+2018;03. Retiro;036. Niño Jesús;0;81
+2018;04. Salamanca;04. Salamanca;;
+2018;04. Salamanca;04. Salamanca;51;1.324
+2018;04. Salamanca;041. Recoletos;16;267
+2018;04. Salamanca;042. Goya;6;318
+2018;04. Salamanca;043. Fuente del Berro;0;122
+2018;04. Salamanca;044. Guindalera;10;202
+2018;04. Salamanca;045. Lista;7;200
+2018;04. Salamanca;046. Castellana;12;215
+2018;05. Chamartín;05. Chamartín;;
+2018;05. Chamartín;05. Chamartín;29;1.056
+2018;05. Chamartín;051. El Viso;4;170
+2018;05. Chamartín;052. Prosperidad;4;218
+2018;05. Chamartín;053. Ciudad Jardín;3;161
+2018;05. Chamartín;054. Hispanoamérica;5;246
+2018;05. Chamartín;055. Nueva España;6;161
+2018;05. Chamartín;056. Castilla;7;100
+2018;06. Tetuán;06. Tetuán;;
+2018;06. Tetuán;06. Tetuán;37;1.035
+2018;06. Tetuán;061. Bellas Vistas;6;144
+2018;06. Tetuán;062. Cuatro Caminos;12;359
+2018;06. Tetuán;063. Castillejos;12;230
+2018;06. Tetuán;064. Almenara;4;106
+2018;06. Tetuán;065. Valdeacederas;1;91
+2018;06. Tetuán;066. Berruguete;2;105
+2018;07. Chamberí;07. Chamberí;;
+2018;07. Chamberí;07. Chamberí;53;1.396
+2018;07. Chamberí;071. Gaztambide;6;236
+2018;07. Chamberí;072. Arapiles;5;210
+2018;07. Chamberí;073. Trafalgar;11;298
+2018;07. Chamberí;074. Almagro;7;241
+2018;07. Chamberí;075. Ríos Rosas;9;269
+2018;07. Chamberí;076. Vallehermoso;15;142
+2018;08. Fuencarral-El Pardo;08. Fuencarral-El Pardo;;
+2018;08. Fuencarral-El Pardo;08. Fuencarral-El Pardo;15;977
+2018;08. Fuencarral-El Pardo;081. El Pardo;0;40
+2018;08. Fuencarral-El Pardo;082. Fuentelarreina;1;2
+2018;08. Fuencarral-El Pardo;083. Peñagrande;0;126
+2018;08. Fuencarral-El Pardo;084. Pilar;0;238
+2018;08. Fuencarral-El Pardo;085. La Paz;2;103
+2018;08. Fuencarral-El Pardo;086. Valverde;8;295
+2018;08. Fuencarral-El Pardo;087. Mirasierra;1;72
+2018;08. Fuencarral-El Pardo;088. El Goloso;3;101
+2018;09. Moncloa-Aravaca;09. Moncloa-Aravaca;;
+2018;09. Moncloa-Aravaca;09. Moncloa-Aravaca;67;823
+2018;09. Moncloa-Aravaca;091. Casa de Campo;4;143
+2018;09. Moncloa-Aravaca;092. Argüelles;17;243
+2018;09. Moncloa-Aravaca;093. Ciudad Universitaria;36;184
+2018;09. Moncloa-Aravaca;094. Valdezarza;0;86
+2018;09. Moncloa-Aravaca;095. Valdemarín;6;42
+2018;09. Moncloa-Aravaca;096. El Plantío;2;40
+2018;09. Moncloa-Aravaca;097. Aravaca;2;85
+2018;10. Latina;10. Latina;;
+2018;10. Latina;10. Latina;4;946
+2018;10. Latina;101. Los Cármenes;0;58
+2018;10. Latina;102. Puerta del Ángel;3;206
+2018;10. Latina;103. Lucero;0;139
+2018;10. Latina;104. Aluche;1;299
+2018;10. Latina;105. Campamento;0;58
+2018;10. Latina;106. Cuatro Vientos;0;15
+2018;10. Latina;107. Águilas;0;171
+2018;11. Carabanchel;11. Carabanchel;;
+2018;11. Carabanchel;11. Carabanchel;12;1.156
+2018;11. Carabanchel;111. Comillas;2;110
+2018;11. Carabanchel;112. Opañel;1;165
+2018;11. Carabanchel;113. San Isidro;1;154
+2018;11. Carabanchel;114. Vista Alegre;4;302
+2018;11. Carabanchel;115. Puerta Bonita;2;116
+2018;11. Carabanchel;116. Buenavista;0;197
+2018;11. Carabanchel;117. Abrantes;2;112
+2018;12. Usera;12. Usera;;
+2018;12. Usera;12. Usera;5;646
+2018;12. Usera;121. Orcasitas;0;63
+2018;12. Usera;122. Orcasur;0;44
+2018;12. Usera;123. San Fermín;1;77
+2018;12. Usera;124. Almendrales;1;122
+2018;12. Usera;125. Moscardó;1;167
+2018;12. Usera;126. Zofío;1;54
+2018;12. Usera;127. Pradolongo;1;119
+2018;13. Puente de Vallecas;13. Puente de Vallecas;;
+2018;13. Puente de Vallecas;13. Puente de Vallecas;4;972
+2018;13. Puente de Vallecas;131. Entrevías;1;156
+2018;13. Puente de Vallecas;132. San Diego;2;227
+2018;13. Puente de Vallecas;133. Palomeras Bajas;1;121
+2018;13. Puente de Vallecas;134. Palomeras Sureste;0;143
+2018;13. Puente de Vallecas;135. Portazgo;0;129
+2018;13. Puente de Vallecas;136. Numancia;0;196
+2018;14. Moratalaz;14. Moratalaz;;
+2018;14. Moratalaz;14. Moratalaz;0;287
+2018;14. Moratalaz;141. Pavones;0;30
+2018;14. Moratalaz;142. Horcajo;0;12
+2018;14. Moratalaz;143. Marroquina;0;113
+2018;14. Moratalaz;144. Media Legua;0;56
+2018;14. Moratalaz;145. Fontarrón;0;42
+2018;14. Moratalaz;146. Vinateros;0;34
+2018;15. Ciudad Lineal;15. Ciudad Lineal;;
+2018;15. Ciudad Lineal;15. Ciudad Lineal;17;1.048
+2018;15. Ciudad Lineal;151. Ventas;0;194
+2018;15. Ciudad Lineal;152. Pueblo Nuevo;1;279
+2018;15. Ciudad Lineal;153. Quintana;2;158
+2018;15. Ciudad Lineal;154. Concepción;3;147
+2018;15. Ciudad Lineal;155. San Pascual;2;94
+2018;15. Ciudad Lineal;156. San Juan Bautista;1;73
+2018;15. Ciudad Lineal;157. Colina;3;28
+2018;15. Ciudad Lineal;158. Atalaya;1;4
+2018;15. Ciudad Lineal;159. Costillares;4;71
+2018;16. Hortaleza;16. Hortaleza;;
+2018;16. Hortaleza;16. Hortaleza;13;675
+2018;16. Hortaleza;161. Palomas;2;29
+2018;16. Hortaleza;162. Piovera;2;60
+2018;16. Hortaleza;163. Canillas;2;198
+2018;16. Hortaleza;164. Pinar del Rey;4;191
+2018;16. Hortaleza;165. Apóstol Santiago;0;39
+2018;16. Hortaleza;166. Valdefuentes;3;158
+2018;17. Villaverde;17. Villaverde;;
+2018;17. Villaverde;17. Villaverde;1;539
+2018;17. Villaverde;171. Villaverde Alto, Casco Histórico de Villaverde;1;201
+2018;17. Villaverde;172. San Cristóbal;0;52
+2018;17. Villaverde;173. Butarque;0;54
+2018;17. Villaverde;174. Los Rosales;0;131
+2018;17. Villaverde;175. Ángeles;0;101
+2018;18. Villa de Vallecas;18. Villa de Vallecas;;
+2018;18. Villa de Vallecas;18. Villa de Vallecas;10;397
+2018;18. Villa de Vallecas;181. Casco Histórico de Vallecas;10;210
+2018;18. Villa de Vallecas;182. Santa Eugenia;0;72
+2018;18. Villa de Vallecas;183. Ensanche de Vallecas;0;115
+2018;19. Vicálvaro;19. Vicálvaro;;
+2018;19. Vicálvaro;19. Vicálvaro;1;230
+2018;19. Vicálvaro;191. Casco Histórico de Vicálvaro;1;163
+2018;19. Vicálvaro;192. Valdebernardo;0;46
+2018;19. Vicálvaro;193. Valderribas;0;19
+2018;19. Vicálvaro;194. El Cañaveral;0;2
+2018;20. San Blas-Canillejas;20. San Blas-Canillejas;;
+2018;20. San Blas-Canillejas;20. San Blas-Canillejas;27;729
+2018;20. San Blas-Canillejas;201. Simancas;9;208
+2018;20. San Blas-Canillejas;202. Hellín;0;11
+2018;20. San Blas-Canillejas;203. Amposta;0;34
+2018;20. San Blas-Canillejas;204. Arcos;0;65
+2018;20. San Blas-Canillejas;205. Rosas;0;131
+2018;20. San Blas-Canillejas;206. Rejas;15;87
+2018;20. San Blas-Canillejas;207. Canillejas;1;142
+2018;20. San Blas-Canillejas;208. El Salvador;2;51
+2018;21. Barajas;21. Barajas;;
+2018;21. Barajas;21. Barajas;31;348
+2018;21. Barajas;211. Alameda de Osuna;6;61
+2018;21. Barajas;212. Aeropuerto;3;94
+2018;21. Barajas;213. Casco Histórico de Barajas;14;70
+2018;21. Barajas;214. Timón;4;49
+2018;21. Barajas;215. Corralejos;4;74
+2019;01. Centro;01. Centro;;
+2019;01. Centro;01. Centro;221;3.012
+2019;01. Centro;011. Palacio;34;564
+2019;01. Centro;012. Embajadores;33;501
+2019;01. Centro;013. Cortes;46;406
+2019;01. Centro;014. Justicia;29;496
+2019;01. Centro;015. Universidad;35;615
+2019;01. Centro;016. Sol;44;430
+2019;02. Arganzuela;02. Arganzuela;;
+2019;02. Arganzuela;02. Arganzuela;16;860
+2019;02. Arganzuela;021. Imperial;4;106
+2019;02. Arganzuela;022. Acacias;1;171
+2019;02. Arganzuela;023. Chopera;3;107
+2019;02. Arganzuela;024. Legazpi;0;88
+2019;02. Arganzuela;025. Delicias;2;138
+2019;02. Arganzuela;026. Palos de Moguer;6;211
+2019;02. Arganzuela;027. Atocha;0;39
+2019;03. Retiro;03. Retiro;;
+2019;03. Retiro;03. Retiro;16;616
+2019;03. Retiro;031. Pacífico;2;156
+2019;03. Retiro;032. Adelfas;4;56
+2019;03. Retiro;033. Estrella;1;47
+2019;03. Retiro;034. Ibiza;1;196
+2019;03. Retiro;035. Los Jerónimos;8;81
+2019;03. Retiro;036. Niño Jesús;0;80
+2019;04. Salamanca;04. Salamanca;;
+2019;04. Salamanca;04. Salamanca;57;1.346
+2019;04. Salamanca;041. Recoletos;17;275
+2019;04. Salamanca;042. Goya;6;324
+2019;04. Salamanca;043. Fuente del Berro;0;119
+2019;04. Salamanca;044. Guindalera;14;204
+2019;04. Salamanca;045. Lista;8;205
+2019;04. Salamanca;046. Castellana;12;219
+2019;05. Chamartín;05. Chamartín;;
+2019;05. Chamartín;05. Chamartín;29;1.066
+2019;05. Chamartín;051. El Viso;4;168
+2019;05. Chamartín;052. Prosperidad;4;223
+2019;05. Chamartín;053. Ciudad Jardín;4;165
+2019;05. Chamartín;054. Hispanoamérica;5;248
+2019;05. Chamartín;055. Nueva España;5;163
+2019;05. Chamartín;056. Castilla;7;99
+2019;06. Tetuán;06. Tetuán;;
+2019;06. Tetuán;06. Tetuán;48;968
+2019;06. Tetuán;061. Bellas Vistas;8;130
+2019;06. Tetuán;062. Cuatro Caminos;18;344
+2019;06. Tetuán;063. Castillejos;11;218
+2019;06. Tetuán;064. Almenara;5;95
+2019;06. Tetuán;065. Valdeacederas;3;85
+2019;06. Tetuán;066. Berruguete;3;96
+2019;07. Chamberí;07. Chamberí;;
+2019;07. Chamberí;07. Chamberí;62;1.412
+2019;07. Chamberí;071. Gaztambide;10;235
+2019;07. Chamberí;072. Arapiles;5;209
+2019;07. Chamberí;073. Trafalgar;13;300
+2019;07. Chamberí;074. Almagro;8;248
+2019;07. Chamberí;075. Ríos Rosas;11;279
+2019;07. Chamberí;076. Vallehermoso;15;141
+2019;08. Fuencarral-El Pardo;08. Fuencarral-El Pardo;;
+2019;08. Fuencarral-El Pardo;08. Fuencarral-El Pardo;16;986
+2019;08. Fuencarral-El Pardo;081. El Pardo;0;40
+2019;08. Fuencarral-El Pardo;082. Fuentelarreina;1;3
+2019;08. Fuencarral-El Pardo;083. Peñagrande;0;127
+2019;08. Fuencarral-El Pardo;084. Pilar;0;240
+2019;08. Fuencarral-El Pardo;085. La Paz;2;102
+2019;08. Fuencarral-El Pardo;086. Valverde;9;298
+2019;08. Fuencarral-El Pardo;087. Mirasierra;1;73
+2019;08. Fuencarral-El Pardo;088. El Goloso;3;103
+2019;09. Moncloa-Aravaca;09. Moncloa-Aravaca;;
+2019;09. Moncloa-Aravaca;09. Moncloa-Aravaca;72;836
+2019;09. Moncloa-Aravaca;091. Casa de Campo;4;148
+2019;09. Moncloa-Aravaca;092. Argüelles;19;249
+2019;09. Moncloa-Aravaca;093. Ciudad Universitaria;36;191
+2019;09. Moncloa-Aravaca;094. Valdezarza;2;81
+2019;09. Moncloa-Aravaca;095. Valdemarín;6;42
+2019;09. Moncloa-Aravaca;096. El Plantío;2;41
+2019;09. Moncloa-Aravaca;097. Aravaca;3;84
+2019;10. Latina;10. Latina;;
+2019;10. Latina;10. Latina;8;948
+2019;10. Latina;101. Los Cármenes;1;59
+2019;10. Latina;102. Puerta del Ángel;4;204
+2019;10. Latina;103. Lucero;1;138
+2019;10. Latina;104. Aluche;2;302
+2019;10. Latina;105. Campamento;0;59
+2019;10. Latina;106. Cuatro Vientos;0;16
+2019;10. Latina;107. Águilas;0;170
+2019;11. Carabanchel;11. Carabanchel;;
+2019;11. Carabanchel;11. Carabanchel;16;1.179
+2019;11. Carabanchel;111. Comillas;2;108
+2019;11. Carabanchel;112. Opañel;1;168
+2019;11. Carabanchel;113. San Isidro;2;159
+2019;11. Carabanchel;114. Vista Alegre;6;303
+2019;11. Carabanchel;115. Puerta Bonita;2;118
+2019;11. Carabanchel;116. Buenavista;1;207
+2019;11. Carabanchel;117. Abrantes;2;116
+2019;12. Usera;12. Usera;;
+2019;12. Usera;12. Usera;11;660
+2019;12. Usera;121. Orcasitas;2;64
+2019;12. Usera;122. Orcasur;0;46
+2019;12. Usera;123. San Fermín;2;79
+2019;12. Usera;124. Almendrales;3;127
+2019;12. Usera;125. Moscardó;2;174
+2019;12. Usera;126. Zofío;1;52
+2019;12. Usera;127. Pradolongo;1;118
+2019;13. Puente de Vallecas;13. Puente de Vallecas;;
+2019;13. Puente de Vallecas;13. Puente de Vallecas;7;946
+2019;13. Puente de Vallecas;131. Entrevías;1;154
+2019;13. Puente de Vallecas;132. San Diego;3;218
+2019;13. Puente de Vallecas;133. Palomeras Bajas;1;123
+2019;13. Puente de Vallecas;134. Palomeras Sureste;1;146
+2019;13. Puente de Vallecas;135. Portazgo;1;126
+2019;13. Puente de Vallecas;136. Numancia;0;179
+2019;14. Moratalaz;14. Moratalaz;;
+2019;14. Moratalaz;14. Moratalaz;0;293
+2019;14. Moratalaz;141. Pavones;0;32
+2019;14. Moratalaz;142. Horcajo;0;12
+2019;14. Moratalaz;143. Marroquina;0;117
+2019;14. Moratalaz;144. Media Legua;0;56
+2019;14. Moratalaz;145. Fontarrón;0;42
+2019;14. Moratalaz;146. Vinateros;0;34
+2019;15. Ciudad Lineal;15. Ciudad Lineal;;
+2019;15. Ciudad Lineal;15. Ciudad Lineal;23;1.063
+2019;15. Ciudad Lineal;151. Ventas;2;197
+2019;15. Ciudad Lineal;152. Pueblo Nuevo;4;286
+2019;15. Ciudad Lineal;153. Quintana;2;158
+2019;15. Ciudad Lineal;154. Concepción;5;149
+2019;15. Ciudad Lineal;155. San Pascual;2;94
+2019;15. Ciudad Lineal;156. San Juan Bautista;1;75
+2019;15. Ciudad Lineal;157. Colina;3;31
+2019;15. Ciudad Lineal;158. Atalaya;0;5
+2019;15. Ciudad Lineal;159. Costillares;4;68
+2019;16. Hortaleza;16. Hortaleza;;
+2019;16. Hortaleza;16. Hortaleza;14;669
+2019;16. Hortaleza;161. Palomas;2;27
+2019;16. Hortaleza;162. Piovera;2;59
+2019;16. Hortaleza;163. Canillas;3;192
+2019;16. Hortaleza;164. Pinar del Rey;4;191
+2019;16. Hortaleza;165. Apóstol Santiago;0;41
+2019;16. Hortaleza;166. Valdefuentes;3;159
+2019;17. Villaverde;17. Villaverde;;
+2019;17. Villaverde;17. Villaverde;2;537
+2019;17. Villaverde;171. Villaverde Alto, Casco Histórico de Villaverde;1;197
+2019;17. Villaverde;172. San Cristóbal;0;53
+2019;17. Villaverde;173. Butarque;1;55
+2019;17. Villaverde;174. Los Rosales;0;130
+2019;17. Villaverde;175. Ángeles;0;102
+2019;18. Villa de Vallecas;18. Villa de Vallecas;;
+2019;18. Villa de Vallecas;18. Villa de Vallecas;10;414
+2019;18. Villa de Vallecas;181. Casco Histórico de Vallecas;10;219
+2019;18. Villa de Vallecas;182. Santa Eugenia;0;71
+2019;18. Villa de Vallecas;183. Ensanche de Vallecas;0;124
+2019;19. Vicálvaro;19. Vicálvaro;;
+2019;19. Vicálvaro;19. Vicálvaro;1;221
+2019;19. Vicálvaro;191. Casco Histórico de Vicálvaro;1;151
+2019;19. Vicálvaro;192. Valdebernardo;0;46
+2019;19. Vicálvaro;193. Valderribas;0;19
+2019;19. Vicálvaro;194. El Cañaveral;0;5
+2019;20. San Blas-Canillejas;20. San Blas-Canillejas;;
+2019;20. San Blas-Canillejas;20. San Blas-Canillejas;29;834
+2019;20. San Blas-Canillejas;201. Simancas;9;209
+2019;20. San Blas-Canillejas;202. Hellín;0;12
+2019;20. San Blas-Canillejas;203. Amposta;0;35
+2019;20. San Blas-Canillejas;204. Arcos;0;64
+2019;20. San Blas-Canillejas;205. Rosas;1;225
+2019;20. San Blas-Canillejas;206. Rejas;15;92
+2019;20. San Blas-Canillejas;207. Canillejas;2;143
+2019;20. San Blas-Canillejas;208. El Salvador;2;54
+2019;21. Barajas;21. Barajas;;
+2019;21. Barajas;21. Barajas;32;357
+2019;21. Barajas;211. Alameda de Osuna;6;60
+2019;21. Barajas;212. Aeropuerto;3;95
+2019;21. Barajas;213. Casco Histórico de Barajas;15;71
+2019;21. Barajas;214. Timón;4;55
+2019;21. Barajas;215. Corralejos;4;76
+2020;01. Centro;01. Centro;;
+2020;01. Centro;01. Centro;250;3.029
+2020;01. Centro;011. Palacio;43;571
+2020;01. Centro;012. Embajadores;41;506
+2020;01. Centro;013. Cortes;48;406
+2020;01. Centro;014. Justicia;32;496
+2020;01. Centro;015. Universidad;38;620
+2020;01. Centro;016. Sol;48;430
+2020;02. Arganzuela;02. Arganzuela;;
+2020;02. Arganzuela;02. Arganzuela;19;857
+2020;02. Arganzuela;021. Imperial;4;107
+2020;02. Arganzuela;022. Acacias;2;171
+2020;02. Arganzuela;023. Chopera;4;108
+2020;02. Arganzuela;024. Legazpi;1;91
+2020;02. Arganzuela;025. Delicias;2;138
+2020;02. Arganzuela;026. Palos de Moguer;6;210
+2020;02. Arganzuela;027. Atocha;0;32
+2020;03. Retiro;03. Retiro;;
+2020;03. Retiro;03. Retiro;17;622
+2020;03. Retiro;031. Pacífico;2;158
+2020;03. Retiro;032. Adelfas;4;56
+2020;03. Retiro;033. Estrella;1;44
+2020;03. Retiro;034. Ibiza;1;205
+2020;03. Retiro;035. Los Jerónimos;7;80
+2020;03. Retiro;036. Niño Jesús;2;79
+2020;04. Salamanca;04. Salamanca;;
+2020;04. Salamanca;04. Salamanca;61;1.327
+2020;04. Salamanca;041. Recoletos;18;274
+2020;04. Salamanca;042. Goya;5;318
+2020;04. Salamanca;043. Fuente del Berro;0;117
+2020;04. Salamanca;044. Guindalera;19;204
+2020;04. Salamanca;045. Lista;7;198
+2020;04. Salamanca;046. Castellana;12;216
+2020;05. Chamartín;05. Chamartín;;
+2020;05. Chamartín;05. Chamartín;31;1.054
+2020;05. Chamartín;051. El Viso;3;167
+2020;05. Chamartín;052. Prosperidad;5;215
+2020;05. Chamartín;053. Ciudad Jardín;4;161
+2020;05. Chamartín;054. Hispanoamérica;5;248
+2020;05. Chamartín;055. Nueva España;7;164
+2020;05. Chamartín;056. Castilla;7;99
+2020;06. Tetuán;06. Tetuán;;
+2020;06. Tetuán;06. Tetuán;52;974
+2020;06. Tetuán;061. Bellas Vistas;10;135
+2020;06. Tetuán;062. Cuatro Caminos;19;342
+2020;06. Tetuán;063. Castillejos;9;219
+2020;06. Tetuán;064. Almenara;8;93
+2020;06. Tetuán;065. Valdeacederas;3;90
+2020;06. Tetuán;066. Berruguete;3;95
+2020;07. Chamberí;07. Chamberí;;
+2020;07. Chamberí;07. Chamberí;70;1.426
+2020;07. Chamberí;071. Gaztambide;14;235
+2020;07. Chamberí;072. Arapiles;5;209
+2020;07. Chamberí;073. Trafalgar;15;306
+2020;07. Chamberí;074. Almagro;8;251
+2020;07. Chamberí;075. Ríos Rosas;11;284
+2020;07. Chamberí;076. Vallehermoso;17;141
+2020;08. Fuencarral-El Pardo;08. Fuencarral-El Pardo;;
+2020;08. Fuencarral-El Pardo;08. Fuencarral-El Pardo;27;1.000
+2020;08. Fuencarral-El Pardo;081. El Pardo;0;41
+2020;08. Fuencarral-El Pardo;082. Fuentelarreina;1;3
+2020;08. Fuencarral-El Pardo;083. Peñagrande;0;129
+2020;08. Fuencarral-El Pardo;084. Pilar;3;243
+2020;08. Fuencarral-El Pardo;085. La Paz;2;103
+2020;08. Fuencarral-El Pardo;086. Valverde;17;303
+2020;08. Fuencarral-El Pardo;087. Mirasierra;1;76
+2020;08. Fuencarral-El Pardo;088. El Goloso;3;102
+2020;09. Moncloa-Aravaca;09. Moncloa-Aravaca;;
+2020;09. Moncloa-Aravaca;09. Moncloa-Aravaca;73;852
+2020;09. Moncloa-Aravaca;091. Casa de Campo;4;145
+2020;09. Moncloa-Aravaca;092. Argüelles;20;253
+2020;09. Moncloa-Aravaca;093. Ciudad Universitaria;37;209
+2020;09. Moncloa-Aravaca;094. Valdezarza;1;79
+2020;09. Moncloa-Aravaca;095. Valdemarín;6;42
+2020;09. Moncloa-Aravaca;096. El Plantío;2;39
+2020;09. Moncloa-Aravaca;097. Aravaca;3;85
+2020;10. Latina;10. Latina;;
+2020;10. Latina;10. Latina;16;950
+2020;10. Latina;101. Los Cármenes;2;60
+2020;10. Latina;102. Puerta del Ángel;9;209
+2020;10. Latina;103. Lucero;2;136
+2020;10. Latina;104. Aluche;3;300
+2020;10. Latina;105. Campamento;0;60
+2020;10. Latina;106. Cuatro Vientos;0;17
+2020;10. Latina;107. Águilas;0;168
+2020;11. Carabanchel;11. Carabanchel;;
+2020;11. Carabanchel;11. Carabanchel;16;1.189
+2020;11. Carabanchel;111. Comillas;3;108
+2020;11. Carabanchel;112. Opañel;1;169
+2020;11. Carabanchel;113. San Isidro;2;158
+2020;11. Carabanchel;114. Vista Alegre;5;300
+2020;11. Carabanchel;115. Puerta Bonita;2;120
+2020;11. Carabanchel;116. Buenavista;1;215
+2020;11. Carabanchel;117. Abrantes;2;119
+2020;12. Usera;12. Usera;;
+2020;12. Usera;12. Usera;13;669
+2020;12. Usera;121. Orcasitas;4;67
+2020;12. Usera;122. Orcasur;0;47
+2020;12. Usera;123. San Fermín;2;81
+2020;12. Usera;124. Almendrales;3;126
+2020;12. Usera;125. Moscardó;3;177
+2020;12. Usera;126. Zofío;1;53
+2020;12. Usera;127. Pradolongo;0;118
+2020;13. Puente de Vallecas;13. Puente de Vallecas;;
+2020;13. Puente de Vallecas;13. Puente de Vallecas;11;956
+2020;13. Puente de Vallecas;131. Entrevías;1;153
+2020;13. Puente de Vallecas;132. San Diego;4;222
+2020;13. Puente de Vallecas;133. Palomeras Bajas;0;120
+2020;13. Puente de Vallecas;134. Palomeras Sureste;3;149
+2020;13. Puente de Vallecas;135. Portazgo;1;126
+2020;13. Puente de Vallecas;136. Numancia;2;186
+2020;14. Moratalaz;14. Moratalaz;;
+2020;14. Moratalaz;14. Moratalaz;0;299
+2020;14. Moratalaz;141. Pavones;0;32
+2020;14. Moratalaz;142. Horcajo;0;12
+2020;14. Moratalaz;143. Marroquina;0;122
+2020;14. Moratalaz;144. Media Legua;0;56
+2020;14. Moratalaz;145. Fontarrón;0;42
+2020;14. Moratalaz;146. Vinateros;0;35
+2020;15. Ciudad Lineal;15. Ciudad Lineal;;
+2020;15. Ciudad Lineal;15. Ciudad Lineal;26;1.074
+2020;15. Ciudad Lineal;151. Ventas;2;196
+2020;15. Ciudad Lineal;152. Pueblo Nuevo;6;285
+2020;15. Ciudad Lineal;153. Quintana;2;159
+2020;15. Ciudad Lineal;154. Concepción;5;154
+2020;15. Ciudad Lineal;155. San Pascual;3;93
+2020;15. Ciudad Lineal;156. San Juan Bautista;1;73
+2020;15. Ciudad Lineal;157. Colina;3;31
+2020;15. Ciudad Lineal;158. Atalaya;0;5
+2020;15. Ciudad Lineal;159. Costillares;4;78
+2020;16. Hortaleza;16. Hortaleza;;
+2020;16. Hortaleza;16. Hortaleza;13;677
+2020;16. Hortaleza;161. Palomas;2;27
+2020;16. Hortaleza;162. Piovera;2;63
+2020;16. Hortaleza;163. Canillas;2;195
+2020;16. Hortaleza;164. Pinar del Rey;5;194
+2020;16. Hortaleza;165. Apóstol Santiago;0;41
+2020;16. Hortaleza;166. Valdefuentes;2;157
+2020;17. Villaverde;17. Villaverde;;
+2020;17. Villaverde;17. Villaverde;5;546
+2020;17. Villaverde;171. Villaverde Alto, Casco Histórico de Villaverde;4;193
+2020;17. Villaverde;172. San Cristóbal;0;56
+2020;17. Villaverde;173. Butarque;1;56
+2020;17. Villaverde;174. Los Rosales;0;132
+2020;17. Villaverde;175. Ángeles;0;109
+2020;18. Villa de Vallecas;18. Villa de Vallecas;;
+2020;18. Villa de Vallecas;18. Villa de Vallecas;10;422
+2020;18. Villa de Vallecas;181. Casco Histórico de Vallecas;10;221
+2020;18. Villa de Vallecas;182. Santa Eugenia;0;71
+2020;18. Villa de Vallecas;183. Ensanche de Vallecas;0;130
+2020;19. Vicálvaro;19. Vicálvaro;;
+2020;19. Vicálvaro;19. Vicálvaro;2;218
+2020;19. Vicálvaro;191. Casco Histórico de Vicálvaro;2;142
+2020;19. Vicálvaro;192. Valdebernardo;0;46
+2020;19. Vicálvaro;193. Valderribas;0;19
+2020;19. Vicálvaro;194. El Cañaveral;0;11
+2020;20. San Blas-Canillejas;20. San Blas-Canillejas;;
+2020;20. San Blas-Canillejas;20. San Blas-Canillejas;27;841
+2020;20. San Blas-Canillejas;201. Simancas;8;208
+2020;20. San Blas-Canillejas;202. Hellín;0;12
+2020;20. San Blas-Canillejas;203. Amposta;2;35
+2020;20. San Blas-Canillejas;204. Arcos;0;66
+2020;20. San Blas-Canillejas;205. Rosas;0;230
+2020;20. San Blas-Canillejas;206. Rejas;15;92
+2020;20. San Blas-Canillejas;207. Canillejas;1;144
+2020;20. San Blas-Canillejas;208. El Salvador;1;54
+2020;21. Barajas;21. Barajas;;
+2020;21. Barajas;21. Barajas;32;363
+2020;21. Barajas;211. Alameda de Osuna;5;64
+2020;21. Barajas;212. Aeropuerto;3;97
+2020;21. Barajas;213. Casco Histórico de Barajas;16;66
+2020;21. Barajas;214. Timón;4;57
+2020;21. Barajas;215. Corralejos;4;79
